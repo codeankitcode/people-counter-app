@@ -28,3 +28,11 @@ button {
 #save-btn{
     background: darkgreen;
 }
+
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
